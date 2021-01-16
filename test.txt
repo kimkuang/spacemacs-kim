@@ -2,9 +2,6 @@ hello word
 for git test
 ssss
 
-<<<<<<< HEAD
 testy by kim github
 
-=======
 test for by kim
->>>>>>> dev
